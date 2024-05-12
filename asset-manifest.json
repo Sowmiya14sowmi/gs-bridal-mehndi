@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/gs-bridal-mehndi/static/css/main.a4d2f952.css",
+    "main.js": "/gs-bridal-mehndi/static/js/main.9b55921b.js",
+    "static/js/453.1ededeff.chunk.js": "/gs-bridal-mehndi/static/js/453.1ededeff.chunk.js",
+    "static/media/contactImg2.png": "/gs-bridal-mehndi/static/media/contactImg2.de19f4f8dce10a012954.png",
+    "static/media/gallaryImg6.png": "/gs-bridal-mehndi/static/media/gallaryImg6.c9c3de87804290e1c0db.png",
+    "static/media/gallaryImg5.png": "/gs-bridal-mehndi/static/media/gallaryImg5.0eb56dc52345597e16d4.png",
+    "static/media/gallaryImg4.png": "/gs-bridal-mehndi/static/media/gallaryImg4.ecec3a956f841c660e9e.png",
+    "static/media/gallaryImg3.png": "/gs-bridal-mehndi/static/media/gallaryImg3.225f3b4245cddd5d0eee.png",
+    "static/media/gallaryImg7.png": "/gs-bridal-mehndi/static/media/gallaryImg7.dc27a9b7d44a24f62aa7.png",
+    "static/media/gallaryImg1.png": "/gs-bridal-mehndi/static/media/gallaryImg1.274743a352fcc2aaa75b.png",
+    "static/media/location.png": "/gs-bridal-mehndi/static/media/location.39e46b0fde035d61fa46.png",
+    "static/media/phone.png": "/gs-bridal-mehndi/static/media/phone.c666a1dc073b14e439e1.png",
+    "static/media/instagram.png": "/gs-bridal-mehndi/static/media/instagram.7f7f8841510ca8bfc772.png",
+    "static/media/firstPageImg1.png": "/gs-bridal-mehndi/static/media/firstPageImg1.18002592fd4df7bc1d6a.png",
+    "static/media/gallaryImg2.jpg": "/gs-bridal-mehndi/static/media/gallaryImg2.ae6ca79ee626ffee7fd2.jpg",
+    "static/media/contactImg1.jpg": "/gs-bridal-mehndi/static/media/contactImg1.560ece515320f91604ae.jpg",
+    "static/media/aboutImg2.png": "/gs-bridal-mehndi/static/media/aboutImg2.e839191e0985cb8991bd.png",
+    "static/media/firstPageImg2.png": "/gs-bridal-mehndi/static/media/firstPageImg2.3a8636623f96cc63f0d9.png",
+    "index.html": "/gs-bridal-mehndi/index.html",
+    "main.a4d2f952.css.map": "/gs-bridal-mehndi/static/css/main.a4d2f952.css.map",
+    "main.9b55921b.js.map": "/gs-bridal-mehndi/static/js/main.9b55921b.js.map",
+    "453.1ededeff.chunk.js.map": "/gs-bridal-mehndi/static/js/453.1ededeff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4d2f952.css",
+    "static/js/main.9b55921b.js"
+  ]
+}
